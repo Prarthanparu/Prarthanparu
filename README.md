@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Prarthan B
 - 👀 I’m interested in ... UI/UX Designing , REACT, and PYTHON.
-- 🌱 I’m currently learning ... ADVANCED REACT
+- 🖥 Worked on MangoDB, Firebase, Ghost CMS, Vercel, Netlify, Bubble.io and Shopifiy. 
+- 🌱 I’m currently learning ... Nextjs, Threejs, Vantajs and Sanity.
 - 💞️ I’m looking to collaborate on ... IOS apps
 - 📫 How to reach me ... Mail me @ prarthanb1993@gmail.com
 
