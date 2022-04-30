@@ -71,4 +71,4 @@ src="https://img.shields.io/github/followers/Prarthanparu?logo=github&style=for-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/prarthanbalaji2559"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/prarthanb1F"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
