@@ -8,6 +8,7 @@ I have a total of 6 years of Experience in Designing and Developing. I don’t h
 
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [Adobe Portfolio](https://prarthanb199313e7.myportfolio.com/)
+* 🖥️  See my portfolio at [FIGMA Design Profile](https://www.figma.com/@caa2f0ce_db7a_4)
 * ✉️  You can contact me at [prarthanb1993@gmail.com](mailto:prarthanb1993@gmail.com)
 * 🚀  I'm currently working on [Personal Portfolio](http://serene-torvalds-000de9.netlify.app/)
 * 🧠  I'm learning AI and ML
