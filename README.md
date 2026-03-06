@@ -4,7 +4,7 @@ Hi 👋 My name is Prarthan B
 I am UI/UX Designer and React Developer
 ---------------------------------------
 
-I have a total of 6 years of Experience in Designing and Developing. I don’t hesitate to work hard, I love creating new stuff every day, and I thrive on being the best. I have worked on many projects using Python, React, Firebase and Bubble.io, and have Expertise in UI/UX designing (Figma, Canva, Adobe XD, and Procreate).
+I have a total of 7+ years of Experience in Designing and Developing. I don’t hesitate to work hard, I love creating new stuff every day, and I thrive on being the best. I have worked on many projects using Python, React, Firebase and Bubble.io, and have Expertise in UI/UX designing (Figma, Canva, Adobe XD, and Procreate).
 
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [Adobe Portfolio](https://prarthanb199313e7.myportfolio.com/)
