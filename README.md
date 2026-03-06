@@ -10,7 +10,7 @@ I have a total of 7+ years of Experience in Designing and Developing. I don’t 
 * 🖥️  See my portfolio at [Adobe Portfolio](https://prarthanb199313e7.myportfolio.com/)
 * 🎨  See my portfolio at [FIGMA Design Profile](https://www.figma.com/@caa2f0ce_db7a_4)
 * ✉️  You can contact me at [prarthanb1993@gmail.com](mailto:prarthanb1993@gmail.com)
-* 🚀  My Personal Websited [Personal Portfolio]((https://prarthandesigner.framer.website/))
+* 🚀  My Personal Websited [Personal Portfolio](https://prarthandesigner.framer.website/)
 * 🧠  I'm learning AI and ML
 * 🤝  I'm open to collaborating on Any Kind of Projects
 * ⚡  I'm Secertly an Artist, But dont tell anyone
